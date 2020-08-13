@@ -1,15 +1,12 @@
-##############
 # How to Use #
-##############
+
 1. Run the make command
    $ make
 
 2. Run the executable with the input file as a argument
    $ ./Restaurant input.txt
 
-########################
 # Description of files #
-########################
 1. Restaurant.cpp
    - Contains main()
    - Opens input file and reads Number of Cooks, Diners and Tables
